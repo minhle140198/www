@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/firetable-app/precache-manifest.f9d1a6bd72cb1401294b76ed61a15c99.js"
+  "/firetable-app/precache-manifest.cf29950f34272f208c7cb8e4a22cf34c.js"
 );
 
 self.addEventListener('message', (event) => {
